@@ -23,4 +23,4 @@ jim = User.new
 jim.first_name = "Big"
 jim.last_name = "Jim"
 
-jim.learn 
+jim.learn
